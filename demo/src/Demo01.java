@@ -21,5 +21,7 @@ public class Demo01 {
         System.out.printf("111");
         System.out.printf("222");
         System.out.printf("333");
+
+        System.out.println("444");
     }
 }
